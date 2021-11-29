@@ -160,7 +160,8 @@ nav,
 
 .filters .filter:hover,
 .filters .filter:focus {
-    color: var(--accent-color);
+    color: var(--header-background-color);
+    background-color: var(--accent-color);
 }
 
 .portfolio-list .subtitle {
