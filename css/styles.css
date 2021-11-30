@@ -96,10 +96,13 @@ nav,
 
 .hero .hero-title {
     color: #FFFFFF;
+    font-style: normal;
     font-size: 44px;
     font-weight: 900;
     line-height: 1.36;
     letter-spacing: 0.06em;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .submit {
