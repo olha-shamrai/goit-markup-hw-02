@@ -12,6 +12,8 @@ body {
     font-family: 'Roboto', sans-serif;
     color: var(--main-text-color);
     background-color: var(--background-main-color);
+
+    letter-spacing: 0.03em;
 }
 
 nav,
@@ -41,7 +43,8 @@ nav,
 
 .site-nav .nav-link {
     color: var(--title-text-color);
-    font-weight: 500; 
+    font-weight: 500;
+    letter-spacing: 0.02em; 
 }
 
 .site-nav .nav-link:hover,
@@ -56,6 +59,7 @@ nav,
 .contact-link {
     color: var(--main-text-color);
     font-weight: 500;
+    letter-spacing: 0.02em;
 }
 
 .contact-link:hover,
@@ -95,6 +99,7 @@ nav,
     font-size: 44px;
     font-weight: 900;
     line-height: 1.36;
+    letter-spacing: 0.06em;
 }
 
 .submit {
@@ -103,6 +108,7 @@ nav,
     font-weight: bold;
     font-size: 16px;
     line-height: 1.87;
+    letter-spacing: 0.06em;
     color: var(--header-background-color);
 }
 
@@ -154,6 +160,7 @@ nav,
     cursor: pointer;
     font-family: inherit;
     font-weight: 500;
+    letter-spacing: 0.03em;
     color: var(--title-text-color);
     background-color: var(--background-secondary-color);
 }
@@ -168,6 +175,7 @@ nav,
     font-weight: bold;
     font-size: 18px;
     line-height: 2;
+    letter-spacing: 0.06em;
     color: var(--title-text-color);
 }
 
