@@ -104,6 +104,7 @@ nav,
 
 .submit {
     cursor: pointer;
+    font-family: inherit;
     background-color: var(--accent-color);
     font-weight: bold;
     font-size: 16px;
